@@ -28,6 +28,7 @@ def simulate(inputs,outputfile):
 def coref(run, output):
     WordDict = {}
     corefs = {}
+    corefbase=[]
     linen = 0
     for line in run:
         WordDict[linen] = []
@@ -38,8 +39,9 @@ def coref(run, output):
         c = re.findall(r'<COREF ID="X.*?">(.*?)</COREF>', line)
         r = re.findall(r'<COREF ID="X.*?">.*?</COREF>', line)
         for i in c:
-            corefs[i]
+            corefs[i]=[]
         for j in r:
+            corefbase.append(j)
             line = line.replace(j,'')
         linelist = line.split()
         for word in linelist:
@@ -49,7 +51,7 @@ def coref(run, output):
         for key in WordDict:
             for element in WordDict[key]:
                 if element.casefold()==word.casefold():
-                    corefs[word].append((word),key)
+                    corefs[word].append((word,key))
     
 if __name__ == '__main__':
     main()
