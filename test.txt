@@ -1,1 +1,1 @@
-./dev/a8.input
+./dev/a6.input
