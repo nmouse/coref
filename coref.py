@@ -11,8 +11,7 @@ def main():
     args = parser.parse_args()
     inputfile = open(args.input, 'r')
     inputs = inputfile.readlines()
-    outputsfile = open(args.output, 'w+')
-    simulate(inputs,outputsfile)
+    simulate(inputs,args.output)
 
 
 
@@ -52,6 +51,14 @@ def coref(run, output):
             for element in WordDict[key]:
                 if element.casefold()==word.casefold():
                     corefs[word].append((word,key))
+    outputfile= open(output, 'w')
+    for word, base in zip(corefs,corefbase):
+        outputfile.write(base+'\n')
+        for pairs in corefs[word]:
+            outputs = '{'+str(pairs[1])+'} {'+str(pairs[0])+'}\n'
+            outputfile.write(outputs)
+        outputfile.write('\n')
+    outputfile.close()
     
 if __name__ == '__main__':
     main()
