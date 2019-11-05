@@ -4,11 +4,15 @@
 {13} {NBC}
 
 <COREF ID="X1">Contract Offer</COREF>
+{7} {contract}
+{10} {contract}
+{11} {contract}
+{13} {contract}
 
 <COREF ID="X2">Strike</COREF>
-{8} {Strike}
-{10} {Strike}
-{10} {Strike}
+{8} {strike.}
+{10} {strike}
+{10} {strike}
 
 <COREF ID="X3">its technicians and news employees union</COREF>
 

@@ -1,22 +1,22 @@
 <COREF ID="X0">GROUNDED-JETS</COREF>
-{5} {GROUNDED-JETS}
+{5} {BC-GROUNDED-JETS-BOS}
 
 <COREF ID="X1">02-22</COREF>
-{38} {02-22}
+{38} {NYT-02-22-96}
 
 <COREF ID="X2">NAVY</COREF>
-{10} {NAVY}
-{12} {NAVY}
-{13} {NAVY}
-{15} {NAVY}
-{19} {NAVY}
-{21} {NAVY}
-{27} {NAVY}
-{29} {NAVY}
-{30} {NAVY}
-{31} {NAVY}
-{35} {NAVY}
-{36} {NAVY}
+{10} {Navy}
+{12} {Navy}
+{13} {Navy}
+{15} {Navy}
+{19} {Navy}
+{21} {Navy}
+{27} {Navy}
+{29} {Navy's}
+{30} {Navy}
+{31} {Navy}
+{35} {Navy}
+{36} {Navy}
 
 <COREF ID="X3">THIRD RECENT CRASH</COREF>
 
@@ -24,25 +24,28 @@
 
 <COREF ID="X5">Thursday</COREF>
 {19} {Thursday}
+{23} {day}
 {26} {Thursday}
 
 <COREF ID="X6">The 72-hour ``safety stand-down''</COREF>
 
 <COREF ID="X7">an F-14 fighter</COREF>
+{31} {fighter}
 
 <COREF ID="X8">the two Naval aviators on board</COREF>
 
 <COREF ID="X9">Defense Department spokesman Kenneth Bacon</COREF>
 
 <COREF ID="X10">A safety stand-down</COREF>
+{25} {stand-down}
 
 <COREF ID="X11">the USS America</COREF>
 
 <COREF ID="X12">Carrier</COREF>
-{16} {Carrier}
-{22} {Carrier}
-{23} {Carrier}
-{29} {Carrier}
+{16} {carrier}
+{22} {carrier}
+{23} {carrier}
+{29} {carrier}
 
 <COREF ID="X13">these three crashes this year</COREF>
 
@@ -52,12 +55,26 @@
 
 <COREF ID="X16">One</COREF>
 {14} {One}
-{34} {One}
+{16} {on}
+{16} {on}
+{18} {on}
+{22} {on}
+{29} {on}
+{34} {gone}
 
 <COREF ID="X17">The oldest version of the aircraft</COREF>
 
 <COREF ID="X18">the initial years of deployment</COREF>
 
 <COREF ID="X19">This</COREF>
-{19} {This}
-{21} {This}
+{15} {is}
+{19} {this}
+{20} {is}
+{21} {this}
+{22} {is}
+{25} {is}
+{27} {is}
+{27} {is}
+{31} {is}
+{33} {is}
+{37} {is}

@@ -1,6 +1,6 @@
 <COREF ID="X0">disease</COREF>
 {1} {disease}
-{1} {disease}
+{1} {disease:}
 {1} {disease}
 {1} {disease}
 {1} {disease}
@@ -9,37 +9,47 @@
 {8} {disease}
 
 <COREF ID="X1">transplant</COREF>
-{2} {transplant}
-{3} {transplant}
+{2} {transplantation}
+{3} {transplantation}
 {4} {transplant}
-{6} {transplant}
-{7} {transplant}
-{8} {transplant}
-{8} {transplant}
+{6} {transplantation.}
+{7} {transplants}
+{8} {transplants}
+{8} {transplantation.}
 
 <COREF ID="X2">Trypanosoma cruzi</COREF>
 
 <COREF ID="X3">the United States</COREF>
+{3} {United}
+{3} {States}
 
 <COREF ID="X4">report</COREF>
-{2} {report}
-{3} {report}
+{2} {reported}
+{3} {Report}
 
 <COREF ID="X5">cases</COREF>
 {8} {cases}
 
 <COREF ID="X6">infection</COREF>
 {4} {infection}
-{5} {infection}
+{5} {[Infection}
 
 <COREF ID="X7">organs</COREF>
+{0} {organ}
+{2} {organ}
+{5} {organ}
+{5} {organ}
 {8} {organs}
+{8} {organ}
+{8} {organ}
 
 <COREF ID="X8">donor</COREF>
-{4} {donor}
-{4} {donor}
-{7} {donor}
+{4} {donors}
+{4} {donors}
+{4} {do}
+{7} {donor.}
 {8} {donor}
+{8} {on}
 
 <COREF ID="X9">The Centers for Disease Control and Prevention</COREF>
 

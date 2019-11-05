@@ -53,12 +53,15 @@ def coref(run, output):
             WordDict[linen].append(word)
         linen=linen+1
 
+    # acutal coreference finding logic
     for word in corefs:
         for key in WordDict:
             for element in WordDict[key]:
-                # if the wordDict `element` contains `word` within as a substring
-                if word.casefold() in element.casefold():
-                    corefs[word].append((word,key))
+                # if the wordDict `word` contains `element` within as a substring
+                # or if `element` contains `word` within as a substring and `word` < 3x as big as `element`
+                if word.casefold() in element.casefold()\
+                        or (element.casefold() in word.casefold() and len(word)/len(element) < 3):
+                    corefs[word].append((element, key))
 
     i = 0
     outputfile= open(output, 'w')

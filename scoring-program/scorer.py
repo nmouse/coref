@@ -95,6 +95,5 @@ def main():
     print('Micro Average Recall:    {:.5f} ({:d}/{:d})'.format(mr, sum(inter_count), sum(key_cluster_len)))
     print('F-score:                 {:.5f}'.format(2*mp*mr/(mp+mr) if abs(mp+mr)>1e-5 else 0))
 
-
 if __name__ == '__main__':
     main()
