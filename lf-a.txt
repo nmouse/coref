@@ -1,0 +1,4 @@
+./dev/a8.input
+./dev/a9.input
+./dev/a10.input
+./dev/a11.input

@@ -1,0 +1,42 @@
+<COREF ID="X0">France</COREF>
+{2} {France}
+{5} {France}
+
+<COREF ID="X1">case</COREF>
+{0} {case}
+{1} {case}
+{3} {case}
+{4} {case}
+{5} {case}
+{6} {case}
+{6} {case}
+{7} {case}
+
+<COREF ID="X2">1983</COREF>
+{1} {1983}
+{6} {1983}
+
+<COREF ID="X3">cases</COREF>
+{1} {cases}
+{3} {cases}
+{4} {cases}
+{5} {cases}
+{6} {cases}
+{6} {cases}
+{7} {cases}
+
+<COREF ID="X4">The Ardennes</COREF>
+
+<COREF ID="X5">1996</COREF>
+{7} {1996}
+
+<COREF ID="X6">1991</COREF>
+{6} {1991}
+
+<COREF ID="X7">1993</COREF>
+{6} {1993}
+
+<COREF ID="X8">species</COREF>
+{10} {species}
+
+<COREF ID="X9">reservoirs</COREF>

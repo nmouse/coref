@@ -6,29 +6,35 @@ import re
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument('input', action="store")
-    parser.add_argument('output', action="store")
+    parser.add_argument('list_file', action="store")
+    parser.add_argument('response_dir', action="store")
     args = parser.parse_args()
-    inputfile = open(args.input, 'r')
-    inputs = inputfile.readlines()
-    simulate(inputs,args.output)
+    list_file = open(args.list_file, 'r')
+    response_dir = str(args.response_dir)
+    # list_file = open("lf-a9.txt", 'r')
+    # response_dir = "./OUTPUT.txt"
+    inputs = list_file.readlines()
+    simulate(inputs, response_dir)
 
-
-
-def simulate(inputs,outputfile):
+def simulate (inputs, output_file):
     files = []
     for line in inputs:
         line = line.rstrip('\n')
-        inputfilew=open(line, 'r')
+        inputfilew = open(line, 'r')
         files.append(inputfilew)
     for run in files:
-        coref(run,outputfile)
+        run_split = str(run).split('/')
+        output_file_path = output_file + run_split[len(run_split)-1].split('.')[0] + ".response"
+        coref(run, output_file_path)
+        # coref(run, output_file)
+    return
 
 def coref(run, output):
     WordDict = {}
     corefs = {}
     corefbase=[]
     linen = 0
+
     for line in run:
         WordDict[linen] = []
         linenumber = '<S ID="'+str(linen)+'">'
@@ -46,19 +52,26 @@ def coref(run, output):
         for word in linelist:
             WordDict[linen].append(word)
         linen=linen+1
+
     for word in corefs:
         for key in WordDict:
             for element in WordDict[key]:
-                if element.casefold()==word.casefold():
+                # if the wordDict `element` contains `word` within as a substring
+                if word.casefold() in element.casefold():
                     corefs[word].append((word,key))
+
+    i = 0
     outputfile= open(output, 'w')
     for word, base in zip(corefs,corefbase):
         outputfile.write(base+'\n')
         for pairs in corefs[word]:
             outputs = '{'+str(pairs[1])+'} {'+str(pairs[0])+'}\n'
             outputfile.write(outputs)
-        outputfile.write('\n')
+        if (i != len(corefs)-1):
+            outputfile.write('\n')
+        i += 1
     outputfile.close()
-    
+    return
+
 if __name__ == '__main__':
     main()
