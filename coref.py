@@ -31,8 +31,11 @@ def simulate (inputs, output_file):
 
 def coref(run, output):
     WordDict = {}
+    spacyWordDict={}
     corefs = {}
+    spacycoref = {}
     corefbase=[]
+    nlp = spacy.load("en_core_web_sm")
     linen = 0
 
     for line in run:
@@ -45,12 +48,15 @@ def coref(run, output):
         r = re.findall(r'<COREF ID="X.*?">.*?</COREF>', line)
         for i in c:
             corefs[i]=[]
+            spacycoref[i]= nlp(i)
         for j in r:
             corefbase.append(j)
             line = line.replace(j,'')
         linelist = line.split()
+        doc=nlp(line)
         for word in linelist:
             WordDict[linen].append(word)
+            spacyWordDict[linen]=doc
         linen=linen+1
 
     # acutal coreference finding logic
