@@ -1,28 +1,40 @@
 <COREF ID="X0">PANTEX</COREF>
-{5} {PANTEX}
-{11} {PANTEX}
-{14} {PANTEX}
-{21} {PANTEX}
+{5} {BC-PANTEX-FLIGHTS-TEX}
+{11} {Pantex}
+{14} {Pantex}
+{21} {Pantex}
 
 <COREF ID="X1">FLIGHTS</COREF>
-{5} {FLIGHTS}
+{5} {BC-PANTEX-FLIGHTS-TEX}
+{13} {flight}
+{16} {flight}
+{25} {flight}
+{27} {flight}
+{29} {flight}
 
 <COREF ID="X2">02-14</COREF>
-{34} {02-14}
+{26} {14}
+{34} {NYT-02-14-96}
 
 <COREF ID="X3">FAA</COREF>
 {12} {FAA}
 {19} {FAA}
 
 <COREF ID="X4">NUMBER OF FLIGHTS</COREF>
+{11} {number}
+{13} {flight}
+{16} {flight}
+{25} {flight}
+{27} {flight}
+{29} {flight}
 
 <COREF ID="X5">PLUTONIUM</COREF>
-{11} {PLUTONIUM}
-{14} {PLUTONIUM}
-{15} {PLUTONIUM}
-{20} {PLUTONIUM}
-{22} {PLUTONIUM}
-{31} {PLUTONIUM}
+{11} {plutonium}
+{14} {plutonium}
+{15} {Plutonium}
+{20} {plutonium}
+{22} {plutonium}
+{31} {plutonium}
 
 <COREF ID="X6">1996</COREF>
 
@@ -34,12 +46,24 @@
 
 <COREF ID="X8">Texas</COREF>
 {24} {Texas}
+{32} {as}
+{32} {as}
 
 <COREF ID="X9">Energy Department</COREF>
+{14} {Energy}
+{21} {Energy}
+{21} {Department}
 
 <COREF ID="X10">each flight</COREF>
+{13} {flight}
+{16} {flight}
+{22} {each}
+{25} {flight}
+{27} {flight}
+{29} {flight}
 
 <COREF ID="X11">Amarillo International Airport</COREF>
+{19} {International}
 
 <COREF ID="X12">military training planes</COREF>
 
@@ -48,38 +72,91 @@
 <COREF ID="X14">The risk of that scenario</COREF>
 
 <COREF ID="X15">me</COREF>
-{8} {me}
-{14} {me}
-{15} {me}
-{16} {me}
-{18} {me}
-{21} {me}
-{22} {me}
-{24} {me}
-{28} {me}
-{28} {me}
-{32} {me}
+{8} {NYTimes}
+{14} {farmers}
+{15} {element}
+{16} {memo}
+{18} {time.''}
+{21} {Department}
+{22} {former}
+{24} {Mexico}
+{28} {summer}
+{28} {instrument}
+{32} {something}
 
 <COREF ID="X16">land near the plant</COREF>
 
 <COREF ID="X17">Mike McNulty</COREF>
+{23} {McNulty}
+{25} {McNulty}
+{27} {McNulty}
+{31} {McNulty}
+{32} {McNulty}
 
 <COREF ID="X18">the previous aircraft count</COREF>
 
 <COREF ID="X19">air traffic controllers</COREF>
+{26} {controllers}
 
 <COREF ID="X20">flight patterns</COREF>
+{13} {flight}
+{16} {flight}
+{25} {flight}
+{25} {pattern}
+{27} {flight}
+{29} {flight}
 
 <COREF ID="X21">About half the aircraft</COREF>
+{11} {aircraft}
 
 <COREF ID="X22">Oklahoma</COREF>
 {32} {Oklahoma}
 
 <COREF ID="X23">plutonium storage bunkers</COREF>
+{11} {plutonium}
+{14} {plutonium}
+{15} {Plutonium}
+{20} {plutonium}
+{22} {plutonium}
+{31} {plutonium}
 
 <COREF ID="X24">sophisticated equipment</COREF>
 
 <COREF ID="X25">some military traffic</COREF>
+{24} {military}
 
 <COREF ID="X26">They</COREF>
-{33} {They}
+{11} {The}
+{11} {the}
+{11} {the}
+{11} {the}
+{11} {the}
+{12} {The}
+{13} {the}
+{13} {the}
+{14} {The}
+{17} {the}
+{18} {the}
+{19} {the}
+{20} {the}
+{21} {the}
+{22} {The}
+{22} {the}
+{22} {the}
+{23} {The}
+{24} {he}
+{25} {the}
+{25} {the}
+{26} {the}
+{26} {the}
+{26} {he}
+{27} {the}
+{27} {the}
+{28} {he}
+{29} {The}
+{29} {he}
+{30} {the}
+{31} {the}
+{31} {the}
+{32} {the}
+{33} {``They}

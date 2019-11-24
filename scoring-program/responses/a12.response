@@ -1,31 +1,34 @@
 <COREF ID="X0">NTSB</COREF>
-{5} {NTSB}
+{5} {BC-NTSB-CRASH-SPI}
 {6} {NTSB}
 {21} {NTSB}
 {24} {NTSB}
 
 <COREF ID="X1">CRASH</COREF>
-{5} {CRASH}
-{10} {CRASH}
-{11} {CRASH}
-{12} {CRASH}
-{18} {CRASH}
-{19} {CRASH}
-{24} {CRASH}
+{5} {BC-NTSB-CRASH-SPI}
+{10} {as}
+{10} {crashed}
+{11} {crashed}
+{12} {crashed}
+{18} {crash}
+{19} {crash.}
+{20} {as}
+{24} {crash.}
 
 <COREF ID="X2">02-27</COREF>
-{26} {02-27}
+{26} {NYT-02-27-96}
 
 <COREF ID="X3">737</COREF>
 {10} {737}
-{15} {737}
+{15} {737's}
 {18} {737}
 
 <COREF ID="X4">CRASH PROBE</COREF>
+{18} {crash}
 
 <COREF ID="X5">SEATTLE</COREF>
-{9} {SEATTLE}
-{14} {SEATTLE}
+{9} {Seattle}
+{14} {Seattle}
 
 <COREF ID="X6">Seattle's Museum of Flight</COREF>
 
@@ -36,10 +39,14 @@
 {19} {Pittsburgh}
 
 <COREF ID="X9">the plane's rudder</COREF>
+{13} {plane's}
 
 <COREF ID="X10">Aviation safety investigators</COREF>
+{15} {investigators}
+{18} {investigators}
 
 <COREF ID="X11">the rudder</COREF>
+{18} {rudder}
 
 <COREF ID="X12">NTSB Chairman Jim Hall</COREF>
 
@@ -50,10 +57,11 @@
 <COREF ID="X15">the angle of the rudder and the pedal controlling it</COREF>
 
 <COREF ID="X16">tests</COREF>
-{6} {tests}
+{6} {TESTS}
 {21} {tests}
 {22} {tests}
 {23} {tests}
 {24} {tests}
 
 <COREF ID="X17">last September</COREF>
+{24} {September}

@@ -1,0 +1,51 @@
+<COREF ID="X0">AIRCRASH</COREF>
+{5} {BC-HK-AIRCRASH-CHINA-SCMP}
+{6} {CRASH}
+{16} {crash}
+
+<COREF ID="X1">CHINA</COREF>
+{5} {BC-HK-AIRCRASH-CHINA-SCMP}
+{6} {IN}
+{6} {CHINA}
+{7} {China}
+{8} {in}
+{10} {China}
+{13} {in}
+{16} {``China}
+{20} {in}
+{22} {China}
+
+<COREF ID="X2">04-09</COREF>
+{23} {NYT-04-09-96}
+
+<COREF ID="X3">TWO</COREF>
+{8} {Two}
+{13} {Two}
+
+<COREF ID="X4">Macau</COREF>
+{9} {Macau.}
+{13} {Macau}
+{15} {Macau}
+{17} {Macau}
+
+<COREF ID="X5">Tuesday</COREF>
+
+<COREF ID="X6">their helicopter</COREF>
+{10} {Helicopter}
+{11} {helicopter}
+{16} {helicopter}
+
+<COREF ID="X7">Zhuhai</COREF>
+{15} {Zhuhai}
+{18} {Zhuhai}
+
+<COREF ID="X8">Hong Kong's Civil Aviation Department</COREF>
+
+<COREF ID="X9">a search</COREF>
+{13} {search}
+
+<COREF ID="X10">the Chinese island</COREF>
+{8} {Chinese}
+
+<COREF ID="X11">poor weather</COREF>
+{11} {weather}

@@ -3,78 +3,84 @@
 
 <COREF ID="X1">poultry</COREF>
 {0} {poultry}
-{0} {poultry}
+{0} {Poultry}
 {3} {poultry}
-{11} {poultry}
+{11} {poultry.}
 
 <COREF ID="X2">mutation</COREF>
 {1} {mutation}
-{9} {mutation}
+{9} {mutational}
 
 <COREF ID="X3">viruses</COREF>
 {0} {viruses}
 {0} {viruses}
 {3} {viruses}
+{5} {virus}
+{7} {virus}
+{8} {virus}
+{9} {virus}
 {11} {viruses}
 
 <COREF ID="X4">virulence</COREF>
 {5} {virulence}
 {8} {virulence}
+{9} {avirulence}
 {9} {virulence}
 {9} {virulence}
-{9} {virulence}
-{9} {virulence}
+{9} {virulence.}
 
 <COREF ID="X5">flocks</COREF>
 {1} {flocks}
 {3} {flocks}
-{3} {flocks}
+{3} {flocks.}
 
 <COREF ID="X6">ND</COREF>
-{0} {ND}
-{1} {ND}
+{0} {(Alexander}
+{1} {and}
 {3} {ND}
-{3} {ND}
-{3} {ND}
-{5} {ND}
-{5} {ND}
-{5} {ND}
-{6} {ND}
-{7} {ND}
-{7} {ND}
-{9} {ND}
-{9} {ND}
-{9} {ND}
+{3} {underlines}
+{3} {and}
+{5} {depending}
+{5} {and}
+{5} {and}
+{6} {and}
+{7} {dependent}
+{7} {and}
+{9} {and}
+{9} {and}
+{9} {independently}
 
 <COREF ID="X7">virus</COREF>
-{0} {virus}
-{0} {virus}
-{1} {virus}
-{3} {virus}
-{4} {virus}
+{0} {viruses}
+{0} {viruses}
+{1} {virus.}
+{3} {viruses}
+{4} {virus.}
 {5} {virus}
 {7} {virus}
 {8} {virus}
 {9} {virus}
-{11} {virus}
+{11} {viruses}
 
 <COREF ID="X8">Victoria</COREF>
-{1} {Victoria}
-{12} {Victoria}
-{12} {Victoria}
+{1} {Victorian}
+{12} {(Victoria)}
+{12} {(Victoria)}
 
 <COREF ID="X9">virus</COREF>
 {12} {Australia}
 {12} {Australia}
 
 <COREF ID="X10">viruses</COREF>
-{6} {Strains}
-{7} {Strains}
-{8} {Strains}
-{8} {Strains}
-{9} {Strains}
+{6} {strains}
+{7} {strains}
+{8} {strains}
+{8} {strains}
+{9} {strains}
 
 <COREF ID="X11">Australia</COREF>
+{7} {cleavability}
+{7} {ability}
 
 <COREF ID="X12">virus</COREF>
 {6} {proteins}
@@ -91,9 +97,16 @@
 {7} {tissue}
 
 <COREF ID="X15">proteins</COREF>
-{1} {This}
-{1} {This}
+{0} {is}
+{1} {this}
+{1} {is}
+{1} {this}
 {2} {This}
-{3} {This}
-{9} {This}
-{10} {This}
+{3} {this}
+{4} {is}
+{7} {is}
+{8} {is}
+{9} {this}
+{9} {is}
+{10} {this}
+{11} {is}

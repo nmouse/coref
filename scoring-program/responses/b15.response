@@ -1,0 +1,36 @@
+<COREF ID="X0">Northwest Attendants</COREF>
+{5} {Northwest}
+{5} {attendants}
+{6} {Northwest}
+{6} {attendants}
+{7} {Northwest}
+{7} {Northwest}
+{14} {attendants}
+
+<COREF ID="X1">Airline</COREF>
+{3} {AIR}
+{5} {Airlines}
+{10} {Air}
+{10} {Line}
+
+<COREF ID="X2">strike</COREF>
+{7} {strike"}
+
+<COREF ID="X3">Easter</COREF>
+
+<COREF ID="X4">leaders of the unions representing Northwest pilots and machinists</COREF>
+
+<COREF ID="X5">strategy meeting</COREF>
+
+<COREF ID="X6">The Teamsters</COREF>
+{8} {Teamsters}
+
+<COREF ID="X7">machinists</COREF>
+
+<COREF ID="X8">A Northwest spokesman</COREF>
+{5} {Northwest}
+{6} {Northwest}
+{7} {Northwest}
+{7} {Northwest}
+{10} {spokesman}
+{11} {spokesman}

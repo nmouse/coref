@@ -1,0 +1,98 @@
+<COREF ID="X0">Pan Am</COREF>
+{6} {Pan}
+{10} {Pan}
+{11} {Pan}
+{12} {Pan}
+{12} {Pan}
+{14} {Pan}
+{15} {Pan}
+{16} {Pan}
+{20} {Pan}
+{22} {Pan}
+{25} {Pan}
+
+<COREF ID="X1">Teamsters</COREF>
+{6} {Teamsters}
+{7} {Teamsters}
+{8} {Teamsters}
+{13} {Teamsters}
+{17} {Teamsters's}
+{18} {Teamsters}
+{20} {Teamsters}
+{26} {Teamsters}
+{30} {Teamsters}
+
+<COREF ID="X2">Contract Talks</COREF>
+{6} {contract}
+{10} {talks}
+{18} {talks}
+{26} {contract}
+
+<COREF ID="X3">The National Mediation Board</COREF>
+
+<COREF ID="X4">a wage-concession agreement</COREF>
+{16} {wage-concession}
+
+<COREF ID="X5">both sides</COREF>
+{9} {both}
+
+<COREF ID="X6">arbitration</COREF>
+{9} {arbitration.}
+{24} {arbitration.}
+
+<COREF ID="X7">William Genoese</COREF>
+{18} {Genoese}
+{19} {Genoese}
+{21} {Genoese}
+
+<COREF ID="X8">today</COREF>
+{1} {to}
+{6} {to}
+{7} {to}
+{7} {to}
+{7} {to}
+{8} {to}
+{9} {to}
+{9} {to}
+{9} {to}
+{10} {to}
+{11} {to}
+{11} {to}
+{14} {to}
+{16} {to}
+{18} {to}
+{18} {to}
+{18} {to}
+{19} {to}
+{20} {to}
+{20} {to}
+{24} {to}
+{24} {to}
+{25} {to}
+{26} {to}
+{27} {to}
+{28} {to}
+{28} {today.}
+{29} {to}
+{29} {to}
+
+<COREF ID="X9">changes in senior management</COREF>
+
+<COREF ID="X10">a coalition of four of Pan Am's five unions</COREF>
+
+<COREF ID="X11">William T. Coleman</COREF>
+{20} {Coleman}
+
+<COREF ID="X12">tomorrow</COREF>
+
+<COREF ID="X13">Mr. Coleman</COREF>
+{20} {Coleman}
+
+<COREF ID="X14">a "cordial" initial meeting with Mr. Coleman last Thursday</COREF>
+
+<COREF ID="X15">Pan Am's pilots union</COREF>
+
+<COREF ID="X16">an agreement to deliver concessions to the company</COREF>
+
+<COREF ID="X17">A pilot's union spokesman</COREF>
+{25} {spokesman}
