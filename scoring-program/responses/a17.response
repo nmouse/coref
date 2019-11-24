@@ -1,0 +1,36 @@
+<COREF ID="X0">REID</COREF>
+{5} {BC-REID-FLIGHT-INSTRUCTOR-HNS}
+{6} {REID}
+{10} {Reid}
+{13} {Reid}
+{14} {Reid}
+{15} {Reid}
+{19} {Reid}
+{22} {Reid}
+{23} {Reid}
+
+<COREF ID="X1">04-12</COREF>
+{27} {NYT-04-12-96}
+
+<COREF ID="X2">HALF MOON BAY</COREF>
+
+<COREF ID="X3">the airplane</COREF>
+{14} {plane}
+{16} {plane}
+
+<COREF ID="X4">Jessica Dubroff</COREF>
+{19} {Jessica}
+
+<COREF ID="X5">flying</COREF>
+{10} {flying}
+{17} {flying}
+{17} {flying''}
+{22} {flying}
+
+<COREF ID="X6">Gary Petersen</COREF>
+
+<COREF ID="X7">George Auld</COREF>
+{8} {GEORGE}
+{17} {Auld}
+
+<COREF ID="X8">He and his wife</COREF>
