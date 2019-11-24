@@ -1,4 +1,4 @@
-./dev/a8.input
-./dev/a9.input
-./dev/a10.input
-./dev/a11.input
+./tst-dev/a8.input
+./tst-dev/a9.input
+./tst-dev/a10.input
+./tst-dev/a11.input

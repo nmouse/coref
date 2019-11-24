@@ -1,5 +1,6 @@
 import argparse
 import math
+import spacy
 from collections import deque
 import re
 

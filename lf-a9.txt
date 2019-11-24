@@ -1,1 +1,1 @@
-./dev/a9.input
+./tst-dev/a9.input
