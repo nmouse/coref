@@ -2,19 +2,16 @@
 
 <COREF ID="X1">Outbreak</COREF>
 {2} {outbreak}
-{15} {Outbreaks}
-{16} {outbreaks}
 
 <COREF ID="X2">Winter Vomiting Disease</COREF>
-{2} {vomiting}
-{6} {vomiting}
-{11} {vomiting}
-{12} {vomiting}
-{14} {vomiting}
-{18} {vomiting}
+{2} {winter vomiting disease}
+{6} {winter}
+{11} {Winter vomiting disease}
+{14} {winter vomiting disease}
+{16} {winter}
+{18} {Winter vomiting disease}
 
 <COREF ID="X3">Sunnybrook Hospital</COREF>
-{6} {hospital}
 {10} {hospital}
 
 <COREF ID="X4">Monday</COREF>
@@ -25,15 +22,9 @@
 {9} {Patients}
 
 <COREF ID="X6">staff</COREF>
-{4} {staff}
 
 <COREF ID="X7">vomiting</COREF>
-{2} {vomiting}
-{6} {vomiting}
-{11} {vomiting}
 {12} {vomiting}
-{14} {vomiting}
-{18} {vomiting}
 
 <COREF ID="X8">symptoms</COREF>
 {12} {Symptoms}
@@ -48,30 +39,20 @@
 {11} {infection}
 
 <COREF ID="X11">We</COREF>
-{3} {weekend}
-{3} {were}
-{4} {showed}
 {6} {We}
 {7} {we}
-{8} {were}
-{9} {were}
-{10} {were}
-{11} {weather}
-{12} {between}
 
 <COREF ID="X12">Craig DuHamel</COREF>
 {8} {DuHamel}
 {13} {DuHamel}
 
 <COREF ID="X13">Wed</COREF>
-{4} {showed}
 {6} {We}
 {7} {we}
 
 <COREF ID="X14">hospital</COREF>
 {6} {hospital}
 {10} {hospital}
-{15} {hospitals}
 
 <COREF ID="X15">a virus</COREF>
 {13} {virus}
@@ -79,8 +60,8 @@
 {18} {virus}
 
 <COREF ID="X16">Norwalk</COREF>
-{18} {Norwalk-like}
-{19} {Norwalk-like}
+{18} {Norwalk}
+{19} {Norwalk}
 
 <COREF ID="X17">ProMED-mail</COREF>
 {20} {ProMED-mail}

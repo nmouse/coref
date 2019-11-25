@@ -1,12 +1,9 @@
 <COREF ID="X0">AIRLINE-LIABILITY</COREF>
-{5} {BC-AIRLINE-LIABILITY-575@amp;AMP;ADD-NYT}
 {10} {liability}
 {10} {airline}
-{19} {liability}
 {27} {airline}
 
 <COREF ID="X1">04-05</COREF>
-{30} {NYT-04-05-96}
 
 <COREF ID="X2">AIRLINE CRASH-LIABILITY ACCORD</COREF>
 
@@ -21,7 +18,6 @@
 {27} {airline}
 
 <COREF ID="X4">$75000 limit</COREF>
-{13} {$75000}
 {13} {limit}
 {14} {limit}
 {19} {limit}
@@ -29,41 +25,19 @@
 {22} {limit}
 
 <COREF ID="X5">Americans</COREF>
-{20} {American}
 {21} {American}
-{28} {Americans:}
+{28} {Americans}
 
 <COREF ID="X6">United States</COREF>
-{14} {United}
 {14} {States}
-{17} {United}
 {17} {States}
-{28} {United}
 {28} {States}
-{28} {United}
+{28} {States}
 
 <COREF ID="X7">This</COREF>
-{10} {is}
-{11} {is}
-{13} {is}
-{13} {is}
-{16} {is}
-{20} {is}
-{21} {is}
-{21} {is}
-{23} {this}
-{25} {his}
-{26} {is}
 
 <COREF ID="X8">Efforts</COREF>
-{11} {for}
 {13} {effort}
-{16} {for}
-{19} {for}
-{20} {for}
-{20} {for}
-{27} {for}
-{28} {for}
 
 <COREF ID="X9">U.S. officials</COREF>
 {25} {officials}
@@ -91,7 +65,6 @@
 {12} {airlines}
 {18} {airlines}
 {18} {airlines}
-{20} {American}
 {21} {American}
 {22} {airlines}
 {23} {airlines}
@@ -114,7 +87,7 @@
 {26} {negotiations}
 
 <COREF ID="X18">economic damages</COREF>
-{11} {damage}
+{10} {damages}
 {19} {damages}
 
 <COREF ID="X19">the airline</COREF>
@@ -122,4 +95,4 @@
 {27} {airline}
 
 <COREF ID="X20">a ``fifth jurisdiction''</COREF>
-{29} {jurisdiction''}
+{29} {jurisdiction}

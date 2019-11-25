@@ -2,53 +2,83 @@
 {23} {Chrysler}
 {26} {Chrysler}
 {31} {Chrysler}
-{32} {Chrysler's}
+{32} {Chrysler}
 {33} {Chrysler}
 {35} {Chrysler}
 {35} {Chrysler}
 {39} {Chrysler}
 {40} {Chrysler}
-{50} {Chrysler's}
+{50} {Chrysler}
 {51} {Chrysler}
 
 <COREF ID="X1">New Canadian Contract Offer</COREF>
+{32} {Canadian}
+{33} {Canadian}
+{34} {Canadian}
+{35} {Canadian}
+{39} {Canadian}
 
 <COREF ID="X2">Walkout</COREF>
-{20} {out}
 
 <COREF ID="X3">Weekend</COREF>
 {29} {end}
-{32} {weekend}
+{29} {week}
 
 <COREF ID="X4">Ford Talks With UAW</COREF>
+{22} {UAW}
+{40} {Ford}
+{41} {Ford}
+{42} {Ford}
+{45} {Ford}
+{49} {UAW}
+{52} {Ford}
 
 <COREF ID="X5">09/17/87</COREF>
+{49} {1}
+{51} {1}
 
 <COREF ID="X6">Striking auto workers</COREF>
-{32} {striking}
+{12} {AUT}
 
 <COREF ID="X7">Chrysler Corp.'s Canadian unit</COREF>
+{26} {Chrysler}
+{31} {Chrysler}
+{32} {Chrysler}
+{33} {Chrysler}
+{34} {Canadian}
+{35} {Chrysler}
+{39} {Chrysler}
+{40} {Chrysler}
+{50} {Chrysler}
+{51} {Chrysler}
 
 <COREF ID="X8">negotiations</COREF>
 {14} {negotiations}
 {16} {negotiations}
-{21} {negotiations.}
+{21} {negotiations}
 {30} {negotiations}
 {49} {negotiations}
 
 <COREF ID="X9">yesterday</COREF>
 {14} {yesterday}
-{25} {yesterday.}
+{25} {yesterday}
 {28} {yesterday}
-{30} {yesterday.}
+{30} {yesterday}
 {35} {yesterday}
 {41} {yesterday}
 {51} {Yesterday}
 
 <COREF ID="X10">Ford Motor Co.</COREF>
-{39} {Motor}
+{39} {Ford Motor Co.}
+{40} {Ford}
+{41} {Ford}
+{42} {Ford}
+{45} {Ford}
+{49} {Ford}
+{52} {Ford}
 
 <COREF ID="X11">the United Auto Workers union</COREF>
+{12} {AUT}
 
 <COREF ID="X12">a settlement</COREF>
 {17} {settlement}
@@ -56,10 +86,12 @@
 {49} {settlement}
 
 <COREF ID="X13">UAW President Owen Bieber</COREF>
-{23} {president}
+{20} {Bieber}
+{21} {Bieber}
+{22} {UAW}
+{49} {UAW}
 
 <COREF ID="X14">Tuesday</COREF>
-{15} {day}
 {25} {Tuesday}
 {26} {Tuesday}
 
@@ -73,61 +105,67 @@
 <COREF ID="X17">sweetened cost-of-living adjustments for pensioners</COREF>
 
 <COREF ID="X18">The Canadian union</COREF>
-{23} {Canadian}
 {32} {Canadian}
 {33} {Canadian}
 {34} {Canadian}
+{35} {Canadian}
 {39} {Canadian}
 
 <COREF ID="X19">the main issue</COREF>
-{45} {issue}
 
 <COREF ID="X20">pension adjustments</COREF>
-{24} {pension}
 {27} {adjustments}
-{31} {pension}
 
 <COREF ID="X21">Chrysler Canada's chief negotiator </COREF>
+{26} {Chrysler}
+{31} {Chrysler}
+{32} {Chrysler}
+{33} {Chrysler}
+{35} {Chrysler}
+{37} {Canada}
+{39} {Chrysler}
+{40} {Chrysler}
+{50} {Chrysler}
+{51} {Chrysler}
 
 <COREF ID="X22">the two sides</COREF>
-{47} {sides}
+{34} {two}
+{43} {two}
+{47} {the two sides}
 
 <COREF ID="X23">local issues</COREF>
 {28} {issues}
-{31} {local}
 {31} {issues}
+{31} {issue}
 {45} {issue}
 
 <COREF ID="X24">U.S.</COREF>
 {50} {U.S.}
 
 <COREF ID="X25">about 585 workers</COREF>
-{23} {Workers}
+{32} {workers}
 {32} {workers}
 {34} {workers}
+{38} {workers}
 {45} {workers}
 {46} {workers}
 
 <COREF ID="X26">a stamping plant near Detroit</COREF>
+{19} {Detroit}
 
 <COREF ID="X27">General Motors Corp.</COREF>
 
 <COREF ID="X28">Monday</COREF>
-{15} {day}
 {33} {Monday}
 {48} {Monday}
 {49} {Monday}
 
 <COREF ID="X29">the two parties</COREF>
+{34} {two}
+{43} {two}
+{47} {two}
 
 <COREF ID="X30">the job-security issue</COREF>
-{45} {job-security}
-{47} {job-security}
+{45} {the job-security issue}
 
 <COREF ID="X31">the previous contract</COREF>
-{13} {contract}
-{32} {contract}
-{45} {contract}
-{48} {contract}
-{49} {contract}
-{50} {contract}
