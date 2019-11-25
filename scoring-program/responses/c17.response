@@ -1,6 +1,4 @@
 <COREF ID="X0">ProMED</COREF>
-{6} {Med}
-{15} {[ProMED}
 
 <COREF ID="X1">posting</COREF>
 
@@ -11,130 +9,7 @@
 <COREF ID="X3">one significant misleading fact and a few questionable elements</COREF>
 
 <COREF ID="X4">I</COREF>
-{0} {birds}
-{0} {Australia}
-{1} {realize}
-{1} {it}
-{1} {is}
-{1} {important}
-{1} {this}
-{2} {It}
-{2} {disease}
-{2} {is}
-{3} {While}
-{3} {organisms}
-{3} {is}
-{3} {it}
-{4} {disease}
-{4} {is}
-{4} {evident}
-{4} {Louisiana}
-{4} {single}
-{4} {rise}
-{4} {additional}
-{4} {nursing}
-{4} {hospital.}
-{5} {Interhuman}
-{5} {transmission}
-{5} {psittacosis}
-{6} {in}
-{6} {Danish}
-{8} {It}
-{8} {is}
-{8} {*experimental*}
-{8} {this}
-{8} {disease}
-{8} {include}
-{8} {birds;}
-{8} {it}
-{8} {is}
-{8} {important}
-{8} {distinguish}
-{8} {experimental}
-{8} {disease}
-{8} {transmission}
-{8} {disease.}
 {9} {I}
-{9} {question}
-{9} {claim}
-{9} {birds}
-{9} {susceptible}
-{9} {infection."}
-{10} {different}
-{10} {species}
-{10} {birds}
-{10} {is}
-{10} {uniform}
-{10} {highly}
-{10} {resistant}
-{10} {disease.}
-{11} {In}
-{11} {species}
-{11} {birds}
-{11} {disease}
-{12} {Highly}
-{12} {resistant}
-{12} {species}
-{12} {birds}
-{12} {impose}
-{12} {risk}
-{12} {either}
-{12} {bacteria.}
-{13} {While}
-{13} {is}
-{13} {in}
-{13} {article}
-{13} {incubation}
-{13} {periods}
-{13} {in}
-{13} {in}
-{13} {literature.}
-{14} {It}
-{14} {is}
-{14} {important}
-{14} {mind}
-{14} {disease}
-{14} {reporting}
-{14} {especially}
-{14} {in}
-{14} {disease}
-{14} {is}
-{14} {significance}
-{14} {is}
-{15} {clarifications.}
-{16} {In}
-{16} {pandemic}
-{16} {psittacosis}
-{16} {countries}
-{16} {causing}
-{17} {in}
-{18} {Diseases}
-{18} {transmitted}
-{18} {animals}
-{18} {Springfield}
-{18} {IL.}
-{19} {linked}
-{19} {importation}
-{19} {psittacines}
-{19} {America}
-{19} {it}
-{19} {is}
-{19} {if}
-{19} {transmission.}
-{20} {With}
-{20} {in}
-{20} {this}
-{20} {is}
-{21} {in}
-{21} {disease}
-{21} {is}
-{21} {mainly}
-{21} {associated}
-{21} {with}
-{21} {working}
-{21} {with}
-{21} {in}
-{21} {with}
 
 <COREF ID="X5">the source</COREF>
 {14} {source}
@@ -142,7 +17,7 @@
 <COREF ID="X6">transmission</COREF>
 {5} {transmission}
 {8} {transmission}
-{19} {transmission.}
+{19} {transmission}
 
 <COREF ID="X7">species</COREF>
 {10} {species}
@@ -150,9 +25,9 @@
 {12} {species}
 
 <COREF ID="X8">some</COREF>
-{1} {some}
 {11} {some}
 
 <COREF ID="X9">the organism</COREF>
 
 <COREF ID="X10">time</COREF>
+{9} {I}

@@ -1,15 +1,22 @@
 Cole Perschon, Ryan Daly
 CS 5340-001 Fall 2019
 Professor Riloff
-November 4, 2019
+November 25, 2019
 
-Project (Midterm Evaluation for Project)
-----------------------------------------
+Project Final Evaluation
+----------------------------------------------------------------------------------------------------------------
 
-(a) Language used -- Python 3.6.5
-(b) Commands:
-             (i)  Generate responses: -- (in coref/) python3 coref.py lf-ALL.txt ./scoring-program/responses/
-	     (ii) Score responses: ----- (in scoring-program/) python3 scorer.py keys/ responses/ tests/ALL.txt
-(c) Machine used ----- lab1-18.eng.utah.edu
-	     (i) Virtual machine is located on that machine at /home/u1057475/env with access permessions set to all
-(d) Breaking Errors -- None
+(a) External Resources:
+                       (i)  spaCy ---------------------------- https://spacy.io/
+                       (ii) def editDist(str1, str2, m, n): -- https://www.geeksforgeeks.org/edit-distance-dp-5/
+(b) < 5 sec
+(c) Team Member Contributions:
+			      (Cole Perschon)
+			          * I/O Specifications conformity
+				  * NOUN PHRASE MATCHING implementation
+				  * HEAD NOUN MATCHING implementation
+				  * EDIT DISTANCE STRING MATCHING implementation
+				  * ENTITY MATCHING implementation
+                              (Ryan Daly)
+                                  *
+(d) Our precision suffered from unrelated strings matching.

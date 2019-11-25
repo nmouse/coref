@@ -5,59 +5,62 @@
 <COREF ID="X1">Eastern Negotiations</COREF>
 {17} {Eastern}
 {19} {Eastern}
+{21} {Eastern}
+{22} {Eastern}
 {23} {Eastern}
 {24} {Eastern}
-{26} {Eastern}
 {26} {Eastern}
 {27} {Eastern}
 {28} {Eastern}
 {30} {Eastern}
 
 <COREF ID="X2">negotiators in the bitter labor battle at Eastern Airlines</COREF>
+{17} {Eastern}
+{19} {Eastern}
+{21} {Eastern}
+{22} {Eastern}
+{23} {Eastern}
+{24} {Eastern}
+{26} {Eastern}
+{27} {Eastern}
+{28} {Eastern}
+{30} {Eastern}
 
 <COREF ID="X3">We</COREF>
 {7} {we}
-{14} {"We}
-{16} {week}
-{16} {allowed}
-{23} {well}
-{26} {week}
-{27} {week}
-{30} {were}
+{14} {We}
 
 <COREF ID="X4">Eastern a unit of Texas Air Corp.</COREF>
+{17} {Eastern}
+{19} {Eastern}
+{21} {Eastern}
+{22} {Eastern}
+{23} {Eastern}
+{24} {Eastern}
+{26} {Eastern}
+{27} {Eastern}
+{28} {Eastern}
+{29} {Texas Air}
+{30} {Eastern}
 
 <COREF ID="X5">steep wage cuts from its roughly 10000 machinists and baggage handlers</COREF>
+{23} {Machinists}
+{27} {Machinist}
 
 <COREF ID="X6">the bargaining table</COREF>
-{16} {bargaining}
-{20} {bargaining}
+{16} {the bargaining table}
 
 <COREF ID="X7">that</COREF>
-{6} {that}
-{7} {that}
-{8} {that}
-{10} {that}
-{10} {at}
-{15} {at}
-{15} {that}
-{16} {that}
-{20} {that}
-{20} {that}
-{21} {at}
-{22} {at}
-{23} {at}
-{28} {that}
-{30} {that}
 
 <COREF ID="X8">the mediation process</COREF>
-{11} {mediation}
+{16} {mediation}
 {21} {mediation}
-{28} {Mediation}
 
 <COREF ID="X9">Florida Gov. Bob Martinez</COREF>
+{29} {Martinez}
 
 <COREF ID="X10">the National Mediation Board</COREF>
+{28} {the National Mediation Board}
 
 <COREF ID="X11">management</COREF>
 {18} {management}
@@ -66,251 +69,32 @@
 <COREF ID="X12">an agreement on a wage-concession package</COREF>
 
 <COREF ID="X13">I</COREF>
-{1} {Progressing}
-{1} {Critical}
-{4} {AIR}
-{5} {quiet}
-{5} {productive}
-{5} {meetings}
-{5} {approaching}
-{5} {critical}
-{5} {in}
-{5} {mediator}
-{5} {said.}
-{6} {Bickford}
-{6} {supervising}
-{6} {in}
-{6} {Miami}
-{6} {since}
-{6} {said}
-{6} {representatives}
-{6} {International}
-{6} {Association}
-{6} {Machinists}
-{6} {meeting}
-{6} {daily}
-{6} {since}
-{6} {differences.}
-{7} {point}
-{7} {within}
-{7} {time}
-{7} {will}
-{7} {coming}
-{7} {with}
-{7} {issues"}
-{7} {said.}
-{8} {Bickford's}
-{8} {first}
-{8} {indication}
-{8} {in}
-{8} {high-stakes}
-{8} {confrontation}
-{9} {is}
-{9} {seeking}
-{9} {ailing}
-{9} {carrier}
-{9} {profitability}
-{9} {it}
-{9} {its}
-{9} {capacity}
-{9} {in}
-{9} {while}
-{9} {seeking}
-{9} {concessions.}
-{10} {In}
-{10} {interview}
-{10} {Bickford}
-{10} {ever-growing}
-{10} {public}
-{10} {demonstrations}
-{10} {letter-writing}
-{10} {campaigns}
-{10} {political}
-{10} {lobbying}
-{10} {heightened}
-{10} {antagonism}
-{11} {"Litigation}
-{11} {I'm}
-{11} {said}
-{11} {Bickford}
-{11} {mediation}
-{12} {which}
-{12} {it}
-{12} {in}
-{12} {this}
-{12} {is}
+{11} {I}
 {13} {I}
-{13} {anything}
-{13} {like}
-{13} {it."}
-{14} {still}
-{14} {talking"}
-{14} {Bickford}
-{14} {since}
-{14} {with}
-{14} {exception}
-{14} {periods}
-{14} {totaling}
-{15} {Bickford}
-{15} {growing}
-{15} {perception}
-{15} {fruitless}
-{15} {futile.}
-{16} {instance}
-{16} {issued}
-{16} {saying}
-{16} {"mediation}
-{16} {sides}
-{16} {bargaining}
-{17} {their}
-{17} {officials}
-{17} {continue}
-{17} {impose}
-{17} {deadline}
-{17} {without}
-{17} {which}
-{17} {is}
-{17} {impossible.}
-{18} {applying}
-{18} {airlines}
-{18} {mediator}
-{18} {impasse}
-{18} {begin}
-{18} {which}
-{18} {unilaterally}
-{18} {impose}
-{18} {its}
-{18} {union}
-{18} {is}
-{18} {strike.}
-{19} {believe}
-{19} {is}
-{19} {getting}
-{19} {negotiated}
-{19} {said}
-{19} {Phil}
-{19} {president}
-{19} {chief}
-{19} {executive}
-{19} {officer}
-{19} {"until}
-{19} {is}
-{19} {firm}
-{19} {existing}
-{20} {it}
-{20} {is}
-{20} {bargaining}
-{20} {seriously}
-{20} {side}
-{20} {concessions.}
-{21} {mediation}
-{21} {is}
-{21} {possible}
-{21} {said}
-{21} {machinists'}
-{21} {union}
-{22} {"I}
-{22} {said.}
-{23} {Indeed}
-{23} {Machinists}
-{23} {union}
-{23} {flight}
-{23} {unions}
-{23} {will}
-{23} {concessions}
-{23} {in}
-{23} {coming}
-{23} {is}
-{23} {anxious}
-{23} {avoid}
-{23} {strike.}
-{24} {preparations}
-{24} {airline}
-{24} {flying}
-{24} {with}
-{24} {non-union}
-{25} {continue}
-{25} {Bickford}
-{25} {neither}
-{25} {side}
-{25} {sign}
-{25} {relenting}
-{25} {in}
-{25} {public.}
-{26} {advertising}
-{26} {featuring}
-{26} {president}
-{26} {saying}
-{26} {investigation}
-{26} {"whisper}
-{26} {campaign"}
-{26} {alleging}
-{26} {airline}
-{26} {is}
-{27} {earlier}
-{27} {Machinist}
-{27} {pilot}
-{27} {unions}
-{27} {accusing}
-{27} {criminal}
-{27} {conspiracy}
-{27} {drive}
-{27} {Air's}
-{27} {price.}
-{28} {Air}
-{28} {urging}
-{28} {write}
-{28} {their}
-{28} {demanding}
-{28} {National}
-{28} {Mediation}
-{28} {begin}
-{28} {in}
-{29} {union}
-{29} {in}
-{29} {lunch-time}
-{29} {demonstration}
-{29} {in}
-{29} {Miami}
-{29} {against}
-{29} {Air}
-{29} {Martinez.}
-{30} {Bickford}
-{30} {said}
-{30} {period}
-{30} {in}
-{30} {April}
-{30} {Miami}
-{30} {is}
-{30} {things}
-{30} {quieter.}
+{22} {I}
 
 <COREF ID="X14">The union</COREF>
 {18} {union}
 {21} {union}
 {23} {union}
-{29} {union}
 
 <COREF ID="X15">Charles Bryan </COREF>
 
 <COREF ID="X16">a strike</COREF>
+{23} {strike}
 
 <COREF ID="X17">the pilot</COREF>
-{27} {pilot}
 
 <COREF ID="X18">Frank Borman </COREF>
 
 <COREF ID="X19">Texas Air</COREF>
-{27} {Texas}
-{28} {Texas}
-{29} {Texas}
+{28} {Texas Air}
+{29} {Texas Air}
 
 <COREF ID="X20">union</COREF>
-{17} {on}
+{11} {I}
+{13} {I}
 {18} {union}
 {21} {union}
+{22} {I}
 {23} {union}
-{23} {unions}
-{24} {non-union}
-{27} {unions}
-{29} {union}

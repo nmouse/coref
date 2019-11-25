@@ -1,32 +1,12 @@
 <COREF ID="X0">me</COREF>
-{0} {American}
-{1} {time}
-{3} {department}
-{3} {management}
-{4} {claimed}
-{4} {remember)}
-{4} {some}
-{5} {Department}
-{6} {time}
-{7} {immediately.}
-{8} {Volkmer}
-{9} {some}
-{10} {some}
-{10} {environmental}
-{10} {Volkmer}
 
 <COREF ID="X1">outbreak</COREF>
-{5} {out}
-{8} {outbreak.}
+{8} {outbreak}
 {9} {outbreak}
-{10} {outbreaks}
-{10} {outbreaks}
-{11} {outbreaks.}
 
 <COREF ID="X2">hundreds</COREF>
 
 <COREF ID="X3">Western Berlin</COREF>
-{6} {western}
 {6} {Berlin}
 
 <COREF ID="X4">sixties</COREF>
@@ -35,23 +15,17 @@
 
 <COREF ID="X6">we</COREF>
 {3} {we}
-{5} {week}
 {5} {we}
-{6} {western}
 {11} {We}
 
 <COREF ID="X7">virus</COREF>
+{1} {I}
 {4} {virus}
 
 <COREF ID="X8">brand</COREF>
-{3} {an}
-{5} {and}
-{8} {and}
-{10} {an}
 
 <COREF ID="X9">occurrences</COREF>
 
 <COREF ID="X10">Mods.MPP</COREF>
 
 <COREF ID="X11">JW</COREF>
-{12} {........................................lm/mpp/jw/pg}

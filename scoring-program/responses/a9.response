@@ -1,96 +1,50 @@
 <COREF ID="X0">F14-CRASHES</COREF>
-{5} {BC-F14-CRASHES-BLOOM}
+{10} {crashes}
 {15} {crash}
+{20} {F14}
 {31} {crash}
 {32} {crashes}
 
 <COREF ID="X1">02-22</COREF>
-{10} {22}
-{34} {NYT-02-22-96}
 
 <COREF ID="X2">NORTHROP GRUMMAN F-14S</COREF>
-{10} {Northrop}
-{29} {Northrop}
-{33} {Northrop}
+{17} {F-14s}
+{29} {Northrop Grumman}
+{33} {Northrop Grumman}
 
 <COREF ID="X3">Bloomberg Business News</COREF>
+{10} {Bloomberg}
 
 <COREF ID="X4">Navy</COREF>
 {12} {Navy}
 {16} {Navy}
-{16} {Navy}
 {17} {Navy}
-{20} {Navy's}
+{20} {Navy}
 {22} {Navy}
 {26} {Navy}
 {27} {Navy}
 {30} {Navy}
-{31} {Navy.}
+{31} {Navy}
 
 <COREF ID="X5">three days</COREF>
 {10} {three}
 {14} {three}
+{21} {day}
 {22} {three}
-{32} {three}
-{32} {three}
-{32} {days}
+{32} {three days}
 
 <COREF ID="X6">Persian Gulf</COREF>
-{18} {Persian}
 
 <COREF ID="X7">a 72-hour safety standdown</COREF>
-{18} {standdown}
 
 <COREF ID="X8">Lt. Greg Geisen</COREF>
-{18} {Geisen}
-{27} {Geisen}
 {28} {Geisen}
 {32} {Geisen}
 
 <COREF ID="X9">the F-14</COREF>
-{10} {The}
-{10} {the}
-{10} {F-14}
-{11} {The}
-{11} {the}
-{12} {The}
-{12} {the}
-{12} {the}
-{13} {the}
-{14} {the}
-{14} {the}
-{15} {The}
-{16} {the}
-{16} {the}
-{16} {F-14}
-{16} {the}
-{17} {the}
-{17} {F-14}
-{17} {the}
-{18} {the}
-{18} {the}
-{18} {the}
-{19} {the}
-{20} {The}
-{20} {the}
-{22} {The}
-{23} {The}
-{24} {The}
-{25} {The}
-{26} {The}
-{28} {The}
-{28} {the}
-{29} {The}
-{30} {The}
-{30} {the}
-{30} {F-14}
-{30} {the}
-{31} {the}
-{32} {the}
-{32} {the}
-{32} {the}
 
 <COREF ID="X10">14 F-14s on board the USS America</COREF>
+{17} {F-14s}
 
 <COREF ID="X11">Pratt @amp; Whitney</COREF>
 
@@ -99,10 +53,8 @@
 <COREF ID="X13">the mid 1970s</COREF>
 
 <COREF ID="X14">Grumman Corp.</COREF>
-{10} {Grumman}
-{10} {Corp.}
-{24} {Corp.}
 {29} {Grumman}
-{33} {Grumman}
 
 <COREF ID="X15">Northrop Grumman spokesman John Vosilla</COREF>
+{29} {Northrop Grumman}
+{33} {Northrop Grumman}

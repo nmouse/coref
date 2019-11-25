@@ -1,46 +1,35 @@
 <COREF ID="X0">West Nile Virus</COREF>
+{1} {West Nile}
+{2} {West Nile}
+{6} {West Nile}
 
 <COREF ID="X1">Canada</COREF>
 {2} {Canada}
-{6} {Canada}
 
 <COREF ID="X2">Tue</COREF>
 
 <COREF ID="X3">Health Canada</COREF>
 {2} {Canada}
-{6} {Health}
-{6} {Canada}
+{6} {Health Canada}
 
 <COREF ID="X4">cases</COREF>
-{1} {As}
 {1} {cases}
 {1} {cases}
 {2} {case}
 {2} {cases}
 {2} {cases}
 {2} {cases}
-{3} {as}
-{3} {cases.}
+{3} {cases}
 {5} {case}
 {5} {case}
 {5} {cases}
 
 <COREF ID="X5">case</COREF>
-{1} {As}
-{1} {cases}
-{1} {cases}
 {2} {case}
-{2} {cases}
-{2} {cases}
-{2} {cases}
-{3} {as}
-{3} {cases.}
 {5} {case}
 {5} {case}
-{5} {cases}
 
 <COREF ID="X6">Alberta</COREF>
-{2} {(Alberta)20021023.5625"}
 {5} {Alberta}
 
 <COREF ID="X7">details</COREF>
@@ -49,6 +38,7 @@
 {5} {Ontario}
 
 <COREF ID="X9">deaths</COREF>
+{1} {death}
 {4} {death}
 
 <COREF ID="X10">individuals</COREF>

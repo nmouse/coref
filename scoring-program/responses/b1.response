@@ -1,16 +1,12 @@
 <COREF ID="X0">Eastern Air</COREF>
-{7} {Eastern}
 {9} {Eastern}
+{10} {Eastern}
+{13} {Eastern}
 
 <COREF ID="X1">Date For Talks on Pay-Cut Plan</COREF>
 
 <COREF ID="X2">union</COREF>
-{7} {on}
-{9} {unions.}
-{11} {unions}
-{12} {unions.}
 {13} {union}
-{13} {unions}
 
 <COREF ID="X3">wage reductions</COREF>
 
@@ -19,12 +15,12 @@
 <COREF ID="X5">Philip Bakes</COREF>
 
 <COREF ID="X6">one union official</COREF>
+{9} {one}
 
 <COREF ID="X7">Robert Callahan</COREF>
 {14} {Callahan}
 
 <COREF ID="X8">Eastern's parent</COREF>
-{7} {Eastern}
 {9} {Eastern}
-{10} {Eastern's}
-{13} {Eastern's}
+{10} {Eastern}
+{13} {Eastern}

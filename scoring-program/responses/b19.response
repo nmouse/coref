@@ -1,11 +1,7 @@
 <COREF ID="X0">Early Aluminum Talks</COREF>
-{5} {aluminum}
-{9} {aluminum}
-{12} {Aluminum}
 
 <COREF ID="X1">Steel Union</COREF>
 {5} {union}
-{9} {union}
 {12} {union}
 
 <COREF ID="X2">2 Firms</COREF>
@@ -26,16 +22,12 @@
 {9} {Becker}
 
 <COREF ID="X9">a strong recovery</COREF>
-{9} {recover}
 
 <COREF ID="X10">Pittsburgh-based Alcoa</COREF>
 
 <COREF ID="X11">Reynolds Richmond Va.</COREF>
-{13} {Reynolds}
 
 <COREF ID="X12">union</COREF>
 {5} {union}
-{8} {union's}
 {9} {union}
 {12} {union}
-{13} {unions}

@@ -17,16 +17,22 @@
 <COREF ID="X5">9.8% </COREF>
 
 <COREF ID="X6">collective bargaining agreements reached last year</COREF>
+{6} {last year}
+{7} {last year}
+{12} {last year}
+{13} {year}
+{18} {last year}
+{21} {last year}
+{22} {last year}
 
 <COREF ID="X7">an average 2.2% wage increase in the first year of the contract</COREF>
+{11} {first}
+{13} {year}
 
 <COREF ID="X8">the life of the pact</COREF>
 
 <COREF ID="X9">pay</COREF>
-{12} {pay}
 {15} {pay}
-{17} {payments}
-{18} {payments.}
 
 <COREF ID="X10">Officials</COREF>
 {13} {officials}
@@ -35,17 +41,13 @@
 <COREF ID="X11">labor</COREF>
 {3} {LABOR}
 {6} {labor}
-{12} {Labor}
-{15} {labor}
-{18} {labor}
 
 <COREF ID="X12">lump-sum payments which are one-time payments often made upon a contract's ratification</COREF>
 
 <COREF ID="X13">construction industry</COREF>
-{20} {Construction}
 
 <COREF ID="X14">the first contract year</COREF>
-{10} {contract}
-{11} {contract}
-{12} {contract}
-{21} {contract}
+{11} {first}
+{12} {the first contract year}
+{13} {year}
+{21} {the first contract year}
