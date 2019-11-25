@@ -18,5 +18,10 @@ Project Final Evaluation
 				  * EDIT DISTANCE STRING MATCHING implementation
 				  * ENTITY MATCHING implementation
                               (Ryan Daly)
-                                  *
+                                  * The Framework to managing the files
+				  * All datastructering
+				  * Testing 
+				  * Spacy Implementation
 (d) Our precision suffered from unrelated strings matching.
+
+Our Virtaul Env is located on lab1-18 home/u1057475/env and the permissions have been set to be allowed
